@@ -59,7 +59,6 @@ This repo is for Algerian developers that want to engage in Discord chat (picked
 
 - SpeakJS: https://discord.gg/DUEt2vb
 - TypeScript: https://discord.gg/typescript
-
 - Deno: https://discord.gg/TGMHGv6
 - Nodeiflux: https://discord.gg/aD42zPx
 
