@@ -127,15 +127,15 @@ This repo is for Algerian developers that want to engage in Discord chat (picked
 
 ## Country communities
 
-:flag_br: Brasil: https://t.me/vuejsbrasil and full list: https://github.com/vuejs-br/comunidades
-:flag_ma: Morocco: https://discord.gg/QbMcetW
-:flag_pl: Poland: https://discord.gg/fVV7T2N and https://www.facebook.com/groups/1562693927371630
+- Brasil: https://t.me/vuejsbrasil and full list: https://github.com/vuejs-br/comunidades
+- Morocco: https://discord.gg/QbMcetW
+- Poland: https://discord.gg/fVV7T2N and https://www.facebook.com/groups/1562693927371630
 
 ## Local Meetup chats
 
-Berlin: https://discord.gg/PRK2y2U
-Kyiv: https://t.me/vuejs_kyiv
-Seattle: https://discord.gg/Wdvr4E9
+- Berlin: https://discord.gg/PRK2y2U
+- Kyiv: https://t.me/vuejs_kyiv
+- Seattle: https://discord.gg/Wdvr4E9
 
 ## Latest additions
 
