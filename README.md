@@ -2,6 +2,11 @@
 
 This repo is for Algerian developers that want to engage in Discord chat (picked from VUELand)
 
+## Our main servers in the community
+
+- DZ Développeurs Discord https://discord.gg/YGbTmMwU3S
+- DZ.DEV Discord https://discord.gg/fbC2BMdkVc
+
 ## General Vue
 
 - Vue Land: https://chat.vuejs.org/
