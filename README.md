@@ -4,7 +4,7 @@ This repo is for Algerian developers that want to engage in Discord chat (picked
 
 ## Our main servers in the community
 
-- DZ Développeurs Discord https://discord.gg/YGbTmMwU3S (not configured yet) from the founder of the Facebook [DZ Développeurs Group](https://www.facebook.com/groups/dzdevs) Yacine Paps
+- DZ Développeurs Discord https://discord.gg/YGbTmMwU3S (not configured yet) from the founder of the Facebook [DZ Développeurs Group](https://www.facebook.com/groups/dzdevs) Yacine Paps, we are asking to be Moderators
 - DZ.DEV Discord https://discord.gg/fbC2BMdkVc (hardly worked on) something new from anonymous but with known Admins like Nazim Boudeffa
 
 ## General Vue
