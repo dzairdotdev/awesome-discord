@@ -4,8 +4,8 @@ This repo is for Algerian developers that want to engage in Discord chat (picked
 
 ## Our main servers in the community
 
-- DZ Développeurs Discord https://discord.gg/YGbTmMwU3S
-- DZ.DEV Discord https://discord.gg/fbC2BMdkVc
+- DZ Développeurs Discord https://discord.gg/YGbTmMwU3S (not configured yet)
+- DZ.DEV Discord https://discord.gg/fbC2BMdkVc (hardly worked on)
 
 ## General Vue
 
