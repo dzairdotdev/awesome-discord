@@ -1,6 +1,6 @@
 # Awesome Discord
 
-This repo is for Algerian developers that want to engage in Discord chat (picked from VUELand)
+This repo is for Algerian developers that want to engage in Discord chat (picked from VUELand with additional links)
 
 ## Our main servers in the community
 
