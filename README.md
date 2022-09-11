@@ -14,6 +14,7 @@ This repo is for Algerian developers that want to engage in Discord chat (picked
 - VueJobs: https://discord.gg/kVqcTzj
 - VueMastery: https://discord.gg/6BhB5bZ
 - Vuejs Developers: https://www.facebook.com/groups/vuejsdevelopers
+- Vue School https://discord.gg/3B3zhBmxws
 
 ## Boilerplates
 
