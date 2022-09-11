@@ -52,6 +52,8 @@ This repo is for Algerian developers that want to engage in Discord chat (picked
 - Storybook: https://discord.gg/NzrwbJ5 and storybook
 - Vite: https://chat.vitejs.dev/ and vite
 - Volar: https://discord.gg/d5TqRH8Tya
+- OhMyZSH https://discord.gg/ohmyzsh 
+- Obsidian https://obsidian.md/community
 
 ## JavaScript
 
