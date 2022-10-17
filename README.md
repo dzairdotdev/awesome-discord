@@ -5,7 +5,7 @@ This repo is for Algerian developers that want to engage in Discord chat (picked
 ## Our main servers in the community
 
 - DZ Développeurs Discord https://discord.gg/YGbTmMwU3S (not configured yet) from the founder of the FB group [DZDéveloppeurs](https://www.facebook.com/groups/dzdevs)
-- DZ.DEV Discord https://discord.gg/fbC2BMdkVc (hardly worked on) something new with multiple channels
+- DZ.DEV Discord https://discord.gg/aMtkCs4bh3 (Another)
 
 ## French General Server
 
